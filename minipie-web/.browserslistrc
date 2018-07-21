@@ -1,3 +1,7 @@
-> 1%
-last 2 versions
-not ie <= 8
+last 1 and_chr version
+last 1 chrome version
+last 1 electron version
+last 1 edge version
+last 1 firefox version
+last 1 ios_saf version
+last 1 safari version
